@@ -8,7 +8,7 @@ jiecheng()
    then
       rtn=1
    else
-      jiecheng `expr $num - 1`
+      jiecheng `expr $num - 1` //递归调用 num--
       rtn=`expr $num \* $rtn`
    fi
 
