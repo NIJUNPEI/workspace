@@ -13,7 +13,7 @@
 源码文件：n.sh
 运行结果：n.png
 
-##self_compression.sh
+## self_compression.sh
 给定文件和目标路径进行自动解压
 /************************************/
 用 if 对参数进行检测 
@@ -22,7 +22,7 @@
 源码文件：self_compression.sh
 运行结果：self_compression.png
 
-##file_size.sh
+## file_size.sh
 指定目录和文件数量n，显示目录下前n大的文件
 /************************************/
 根据参数进入指定的目录
